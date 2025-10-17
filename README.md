@@ -17,7 +17,7 @@ This repo includes:
 1. Clean data in Excel (removed duplicates, fixed numeric formats).  
 2. Aggregated damage using PivotTables by disaster type, year, and country.  
 3. Exported charts (bar, line); used log scale for country comparison.  
-4. Compiled findings in `report/CAT_report.docx` and shared workbook in `analysis/`.
+4. Compiled findings in `European_Disaster_Trends_Analysis` and shared workbook in `public_emdat_custom_request_2025-10-10_f1614555-f903-41db-b87f-8469b2c17cf2(AutoRecovered)`.
 
 ## Data source
 Dataset: EM-DAT — The International Disaster Database (CRED).  
